@@ -20,7 +20,7 @@ spec:
       componentName: "document-svc"
       projectName: "doclet"
       repository:
-        url: "https://github.com/sakith03/sample-gitops.git"
+        url: "https://github.com/openchoreo/sample-gitops.git"
         revision:
           branch: "main"
         appPath: "/project-doclet-app/service-go-document"
